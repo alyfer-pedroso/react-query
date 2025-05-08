@@ -35,8 +35,8 @@ A modern React application demonstrating state management with TanStack React Qu
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/tag-management.git
-cd tag-management
+git clone https://github.com/alyfer-pedroso/react-query.git
+cd react-query
 ```
 
 2. Install dependencies
