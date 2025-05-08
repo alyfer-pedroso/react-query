@@ -1,0 +1,189 @@
+{
+  "tags": [
+    {
+      "title": "Backbone",
+      "amountOfVideos": 116,
+      "id": "4356"
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 71,
+      "id": "ace9"
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 150,
+      "id": "r123"
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 200,
+      "id": "a456"
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 180,
+      "id": "v789"
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 80,
+      "id": "s012"
+    },
+    {
+      "title": "Ember",
+      "amountOfVideos": 95,
+      "id": "e345"
+    },
+    {
+      "title": "Meteor",
+      "amountOfVideos": 60,
+      "id": "m678"
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 70,
+      "id": "p901"
+    },
+    {
+      "title": "Knockout",
+      "amountOfVideos": 50,
+      "id": "k234"
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 40,
+      "id": "m567"
+    },
+    {
+      "title": "Alpine",
+      "amountOfVideos": 30,
+      "id": "a890"
+    },
+    {
+      "title": "Stencil",
+      "amountOfVideos": 25,
+      "id": "s123"
+    },
+    {
+      "title": "LitElement",
+      "amountOfVideos": 45,
+      "id": "l456"
+    },
+    {
+      "title": "Preact",
+      "amountOfVideos": 110,
+      "id": "p789"
+    },
+    {
+      "title": "Riot",
+      "amountOfVideos": 20,
+      "id": "r012"
+    },
+    {
+      "title": "Inferno",
+      "amountOfVideos": 35,
+      "id": "i345"
+    },
+    {
+      "title": "Marko",
+      "amountOfVideos": 55,
+      "id": "m678"
+    },
+    {
+      "title": "Cycle.js",
+      "amountOfVideos": 15,
+      "id": "c901"
+    },
+    {
+      "title": "Dojo",
+      "amountOfVideos": 75,
+      "id": "d234"
+    },
+    {
+      "title": "Chaplin",
+      "amountOfVideos": 10,
+      "id": "c567"
+    },
+    {
+      "title": "Durandal",
+      "amountOfVideos": 5,
+      "id": "d890"
+    },
+    {
+      "title": "Sammy",
+      "amountOfVideos": 18,
+      "id": "s123"
+    },
+    {
+      "title": "SproutCore",
+      "amountOfVideos": 22,
+      "id": "s456"
+    },
+    {
+      "title": "Flight",
+      "amountOfVideos": 12,
+      "id": "f789"
+    },
+    {
+      "title": "Spine",
+      "amountOfVideos": 9,
+      "id": "s012"
+    },
+    {
+      "title": "Ractive",
+      "amountOfVideos": 7,
+      "id": "r345"
+    },
+    {
+      "title": "Elm",
+      "amountOfVideos": 33,
+      "id": "e678"
+    },
+    {
+      "title": "Derby",
+      "amountOfVideos": 14,
+      "id": "d901"
+    },
+    {
+      "title": "Sprout",
+      "amountOfVideos": 8,
+      "id": "s234"
+    },
+    {
+      "title": "Bacon.js",
+      "amountOfVideos": 6,
+      "id": "b567"
+    },
+    {
+      "title": "Riot.js",
+      "amountOfVideos": 17,
+      "id": "r890"
+    },
+    {
+      "title": "Famous",
+      "amountOfVideos": 28,
+      "id": "f123"
+    },
+    {
+      "title": "CanJS",
+      "amountOfVideos": 11,
+      "id": "c456"
+    },
+    {
+      "title": "Ampersand",
+      "amountOfVideos": 13,
+      "id": "a789"
+    },
+    {
+      "title": "Bobril",
+      "amountOfVideos": 16,
+      "id": "b012"
+    },
+    {
+      "title": "Moon",
+      "amountOfVideos": 19,
+      "id": "m345"
+    }
+  ]
+}
