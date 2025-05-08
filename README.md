@@ -110,7 +110,7 @@ The application uses `useSearchParams` from React Router DOM to manage paginatio
 
 ```typescript
 const [searchParams] = useSearchParams();
-const page = searchParams.get("page") ? Number(searchParams.get("page")) : 1;
+const page = searchParams.get("page") ? Number(searchParams.get("page") || 1) : 1;
 ```
 
 This approach allows for:
