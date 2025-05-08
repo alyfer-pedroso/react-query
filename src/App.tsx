@@ -37,7 +37,10 @@ function App() {
       const res = await fetch(`http://localhost:3333/tags?_page=${page}&_per_page=10`);
       const data = await res.json();
 
-      await new Promise((res) => setTimeout(res, 2000));
+      await new Promise((res) => {
+        const randomTimer = Math.floor(Math.random() * (2000 - 100 + 1)) + 100;
+        setTimeout(res, randomTimer);
+      });
 
       return data;
     },
