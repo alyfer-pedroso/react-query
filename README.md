@@ -67,7 +67,7 @@ This will start the Vite dev server on http://localhost:5000
 ## Project Structure
 
 ```
-tag-management/
+react-query/
 ├── public/              # Static assets
 ├── src/
 │   ├── components/      # React components
